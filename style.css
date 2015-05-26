@@ -1,5 +1,8 @@
 ﻿* {
     font-size: 16pt;
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
